@@ -1,0 +1,16 @@
+# Node & NestJS build folders
+node_modules
+dist
+
+# Environment files (never commit secrets)
+.env
+.env.local
+
+# OS junk files
+.DS_Store
+
+# Logs
+*.log
+
+# Docker data
+docker-data/
