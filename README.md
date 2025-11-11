@@ -36,3 +36,20 @@ planify-backend/
    ```bash
    cd services/user-service
    npm run start:dev
+
+🧱 Tech Stack
+
+Backend: NestJS (Node.js)
+
+Databases: PostgreSQL, MongoDB
+
+Cache: Redis
+
+Messaging: Kafka
+
+Infra: Docker + Compose
+
+🧠 Note
+
+Never commit .env files or secrets.
+Use .env.example instead for reference.
