@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f317555a-d442-4c27-897a-fb71c49ea855" name="Changes" comment="service changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="changes-24-11" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MehulDeshlahra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MehulDeshlahra/planify-backend.git&quot;,
+    &quot;accountId&quot;: &quot;b7afa667-7dca-4a27-9541-139255cace5d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35LaWkInZLaM4g2aejGQybvaBL7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mehul/Desktop/planify/planify-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mehul\Desktop\planify\planify-backend\services" />
+      <recent name="C:\Users\mehul\Desktop\planify\planify-backend\services\plan-service\src\users" />
+      <recent name="C:\Users\mehul\Desktop\planify\planify-backend\services\plan-service\src\plans" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f317555a-d442-4c27-897a-fb71c49ea855" name="Changes" comment="" />
+      <created>1762891839568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762891839568</updated>
+      <workItem from="1762891840790" duration="2181000" />
+      <workItem from="1763008920966" duration="2872000" />
+      <workItem from="1763013057319" duration="2751000" />
+      <workItem from="1763227897379" duration="23600000" />
+      <workItem from="1763988629542" duration="1768000" />
+      <workItem from="1763990493345" duration="408000" />
+      <workItem from="1763990920602" duration="2633000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial repo setup (.gitignore + README)">
+      <option name="closed" value="true" />
+      <created>1762892280490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762892280490</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes">
+      <option name="closed" value="true" />
+      <created>1762893112189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762893112189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763988692357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763988692357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763988922643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763988922643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763989558469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763989558469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763989564177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763989564177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763989567681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763989567681</updated>
+    </task>
+    <task id="LOCAL-00008" summary="user-service changes">
+      <option name="closed" value="true" />
+      <created>1763991589854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763991589854</updated>
+    </task>
+    <task id="LOCAL-00009" summary="service changes">
+      <option name="closed" value="true" />
+      <created>1764001236662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764001236662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/services/user-service" />
+      <path value="$PROJECT_DIR$/services/notification-service" />
+      <path value="$PROJECT_DIR$/services/plan-service" />
+    </ignored-roots>
+    <MESSAGE value="Initial repo setup (.gitignore + README)" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="user-service changes" />
+    <MESSAGE value="service changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="service changes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
